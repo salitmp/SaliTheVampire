@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sali
+- 👋 Hi, I am a Vampire 
 - 👀 I’m interested in ... learning web languages
 - 🌱 I’m currently learning ... javascript, React, Redux, Vite, Sanity, hugo,and bootstarp.
 - 💞️ I am a lerner so I am seeking help form experts
