@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @salitmp
+- 👋 Hi, I’m @Sali
 - 👀 I’m interested in ... learning web languages
-- 🌱 I’m currently learning ... javascript, hugo,and bootstarp.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... javascript, React, Redux, Vite, Sanity, hugo,and bootstarp.
+- 💞️ I am a lerner so I am seeking help form experts
 - 📫 How to reach me ... 
 
 <!---
